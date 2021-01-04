@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://gifted-galileo-5b14bc.netlify.app
 
 ## Available Scripts
 
